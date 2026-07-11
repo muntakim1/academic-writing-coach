@@ -11,7 +11,7 @@ Not a ghostwriter. A coach. The session produces two things: a complete, well-st
 
 ## Demo
 
-https://github.com/muntakim1/academic-writing-coach/raw/main/academic-writing-coach-demo (1).mp4
+https://github.com/muntakim1/academic-writing-coach/raw/main/academic-writing-coach-demo.mp4
 
 *79-second demo with narration. If the embed does not play, the file is in root file.*
 
